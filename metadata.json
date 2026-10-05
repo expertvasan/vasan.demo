@@ -1,0 +1,6 @@
+{
+  "name": "Vertex Athletics | Sports Equipment & Gear Shop",
+  "description": "High-performance sports equipment, athletic footwear, and competition gear for serious athletes and fitness enthusiasts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
